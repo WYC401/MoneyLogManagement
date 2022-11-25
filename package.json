@@ -1,0 +1,14 @@
+{
+  "name": "BeginnerProject",
+  "version": "1.0.0",
+  "description": "hhhhh",
+  "main": "index.js",
+  "repository": "https://github.com/iamshaunjp/typescript-tutorial.git",
+  "author": "WYC401 <545301030@qq.com>",
+  "license": "MIT",
+  "dependencies": {
+    "@tsconfig/node14": "^1.0.3",
+    "@types/node": "^18.11.0",
+    "typescript": "^4.8.4"
+  }
+}
